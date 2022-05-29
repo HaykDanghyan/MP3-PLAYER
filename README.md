@@ -1,1 +1,3 @@
-# MP3-PLAYER
+<div align = "center">
+<h1>MP3-PLAYER</h1>
+</div>
